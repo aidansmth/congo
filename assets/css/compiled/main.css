@@ -2910,9 +2910,9 @@ body:has(#menu-controller:checked) {
   display: inline;
 }
 
-.dark .dark\:hidden {
+/* .dark .dark\:hidden {
   display: none;
-}
+} */
 
 .dark .dark\:border-neutral-600 {
   --tw-border-opacity: 1;
